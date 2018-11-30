@@ -1,5 +1,7 @@
 # MathExerciseGenerator
 Python Scripts to generate Excercises in Algebra and Calculus. Excercises and Solutions are writen in Word-Files.
+
+Most Scripts use Sympy for longer calculations. For generating the Wordfiles i used  the docx module
 ## Usage
 
 You start each program with the parameters 
